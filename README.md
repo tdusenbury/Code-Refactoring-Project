@@ -10,7 +10,7 @@
 
 ## Description 
 
-[Visit the Deployed Site](https://youtu.be/BFyeuLhjcPY)
+[Visit the Deployed Site](https://tdusenbury.github.io/Code-Refactoring-Project/)
 
 Our first Feature Request Challenge asked that we refactor existing code for a marketing agency that followed accessibility standards and optimized their site for search engines.
 
