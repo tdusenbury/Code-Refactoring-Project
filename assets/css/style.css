@@ -19,9 +19,9 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/*Changed color for greater contrast for visible accessibility*/
 .header h1 .seo {
-    color: #d9dcd6;
+    color: darkgray;
 }
 
 .header div {
