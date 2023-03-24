@@ -86,23 +86,6 @@ p {
     background-color: #2589bd;
 }
 /*Created new class and removed redundant CSS*/
-.aside-links {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-/*Created new class and removed redundant CSS*/
-.aside-links h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-/*Created new class and removed redundant CSS*/
-.aside-links img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/*Created new class and removed redundant CSS*/
 .main-internal-links {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,7 +103,22 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*Created new class and removed redundant CSS*/
+.aside-links {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+/*Created new class and removed redundant CSS*/
+.aside-links h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+/*Created new class and removed redundant CSS*/
+.aside-links img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
 .footer {
     padding: 30px;
     clear: both;
